@@ -141,21 +141,7 @@ sudo systemctl start grafana-server
 - Overall, the lab was successful and gave a hands-on experience of integrating **Grafana with Azure Monitor** using secure **Managed Identity**.
 
 ---
+## Screenshots
 
-## ✅ Deliverables Checklist
 
-| Deliverable | Status |
-|------------|--------|
-| Grafana Installed | ✅ |
-| Azure Monitor Connected | ✅ |
-| Dashboard Created | ✅ |
-| Screenshots Taken | ✅ |
-| Report Completed | ✅ |
-| Markdown Submitted to GitHub | ✅ |
-
----
-
-## 📁 Submission Link
-
-[🔗 GitHub Repository Link – Lab Submission](https://github.com/yourusername/cst8919-grafana-lab)
 

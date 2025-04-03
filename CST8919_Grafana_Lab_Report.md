@@ -131,6 +131,4 @@ sudo systemctl start grafana-server
 
 - Overall, the lab was successful and gave a hands-on experience of integrating **Grafana with Azure Monitor** using secure **Managed Identity**.
 
----
-## Screenshots
 

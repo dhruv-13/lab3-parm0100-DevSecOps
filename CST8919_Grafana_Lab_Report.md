@@ -120,15 +120,6 @@ sudo systemctl start grafana-server
 
 ---
 
-## 📷 Screenshots
-
-> 📁 *Screenshots will be added to the repository under `/screenshots` folder, including:*  
-- Grafana service status  
-- Azure Role Assignments  
-- Data Source Configuration  
-- Dashboard Preview  
-
----
 
 ## 📝 Reflections & Issues Encountered
 
@@ -142,6 +133,22 @@ sudo systemctl start grafana-server
 
 ---
 ## Screenshots
+![alt text](image-2.png)
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
+![alt text](image-6.png)
+
+![alt text](image-7.png)
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
 
 
